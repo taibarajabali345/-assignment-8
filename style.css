@@ -1,0 +1,46 @@
+body{
+    background-color: hotpink;
+}
+
+h1{
+    color: blueviolet;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+img{
+    height: 100%;
+    width: 100%;
+}
+
+h2{
+    color: rgb(194, 62, 194);
+}
+
+p{
+    color: black;
+}
+
+h3{
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    color: purple;
+}
+
+h4{
+    color: rgb(28, 195, 207);
+}
+
+h5{
+    color: royalblue;
+}
+
+h6{
+    color: darkslateblue;
+}
+
+hr{
+    border-style: dotted;
+}
